@@ -10,11 +10,11 @@
 
 #Favorite Song
 
-<div align="center">
-  <a href="https://on.soundcloud.com/md4MPjgq2UxuKCgdmo" target="_blank">
-    <img src="https://sc-badge-generator.vercel.app/api/track?url=https://on.soundcloud.com/md4MPjgq2UxuKCgdmo" alt="SoundCloud Track" width="400" />
-  </a>
-</div>
+# Favorite Song
+
+<a href="https://on.soundcloud.com/md4MPjgq2UxuKCgdmo" target="_blank">
+  <img src="https://img.shields.io/badge/Listen_on-SoundCloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white" alt="Listen on SoundCloud" />
+</a>
 
 # 🐍 Contribution Snake
 
