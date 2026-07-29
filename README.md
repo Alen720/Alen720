@@ -22,9 +22,9 @@
   <tr>
     <td align="center">
       <b>🎧 SoundCloud Player</b><br>
-      <sub><b>Garcon Maigre</b> — ☆popstar☆</sub><br><br>
-      <code>0:42 ━━━━━🔘─────────── 2:15</code><br><br>
-      <a href="https://on.soundcloud.com/md4MPjgq2UxuKCgdmo" target="_blank">▶ <b>Слушать трек</b></a>
+      <sub><b>ssshhhiiittt</b> — дворы</sub><br><br>
+      <code>0:42 ━━━━━🔘─────────── 2:45</code><br><br>
+      <a href="https://on.soundcloud.com/xAk5aW7t0ekD7FL3yi" target="_blank">▶ <b>Слушать трек</b></a>
     </td>
   </tr>
 </table>
