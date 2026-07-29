@@ -10,10 +10,10 @@
 
 #Favorite Song
 
-# Favorite Song
+### 🎵 Favorite Song
 
 <a href="https://on.soundcloud.com/md4MPjgq2UxuKCgdmo" target="_blank">
-  <img src="https://img.shields.io/badge/Listen_on-SoundCloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white" alt="Listen on SoundCloud" />
+  <img src="https://sc-player-widget.vercel.app/api/track?url=https://soundcloud.com/kishlak/11a&theme=dark" alt="SoundCloud Player" width="400" />
 </a>
 
 # 🐍 Contribution Snake
