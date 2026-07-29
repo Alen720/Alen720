@@ -22,7 +22,7 @@
   <tr>
     <td align="center">
       <b>🎧 SoundCloud Player</b><br>
-      <sub><b>Кишлак</b> — Автостопом по фазе сна</sub><br><br>
+      <sub><b>Garcon Maigre</b> — ☆popstar☆</sub><br><br>
       <code>0:42 ━━━━━🔘─────────── 2:15</code><br><br>
       <a href="https://on.soundcloud.com/md4MPjgq2UxuKCgdmo" target="_blank">▶ <b>Слушать трек</b></a>
     </td>
