@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Alen
 
-💻 Junior Python (FastAPI) & React Developer
+💻 Junior+ Python (FastAPI) & React Developer
 
 ## 🚀 Tech Stack
 
