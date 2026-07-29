@@ -8,13 +8,26 @@
   <img src="https://skillicons.dev/icons?i=python,fastapi,react,js,html,css,postgres,docker,git,linux,vscode,debian,npm,discord,linkedin,figma,github,sqlite,bash" />
 </p>
 
-#Favorite Song
+<div align="center">
+  <h2>🎵 Favorite Song</h2>
 
-### 🎵 Favorite Song
+  <a href="https://on.soundcloud.com/md4MPjgq2UxuKCgdmo" target="_blank">
+    <img src="https://img.shields.io/badge/LISTEN_ON-SOUNDCLOUD-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white" alt="SoundCloud" />
+  </a>
+</div>
 
-<a href="https://on.soundcloud.com/md4MPjgq2UxuKCgdmo" target="_blank">
-  <img src="https://sc-player-widget.vercel.app/api/track?url=https://soundcloud.com/kishlak/11a&theme=dark" alt="SoundCloud Player" width="400" />
-</a>
+<br>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <b>🎧 SoundCloud Player</b><br>
+      <sub><b>Кишлак</b> — Автостопом по фазе сна</sub><br><br>
+      <code>0:42 ━━━━━🔘─────────── 2:15</code><br><br>
+      <a href="https://on.soundcloud.com/md4MPjgq2UxuKCgdmo" target="_blank">▶ <b>Слушать трек</b></a>
+    </td>
+  </tr>
+</table>
 
 # 🐍 Contribution Snake
 
