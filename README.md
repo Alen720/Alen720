@@ -1,5 +1,3 @@
-<img width="576" height="576" alt="doc_2026-07-29_07-53-03-ezgif com-optimize" src="https://github.com/user-attachments/assets/77f04c76-2f9d-4312-8074-d747aa07e00d" />
-
 # 👋 Hi, I'm Alen
 
 💻 Junior Python (FastAPI) & React Developer
