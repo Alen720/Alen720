@@ -8,6 +8,14 @@
   <img src="https://skillicons.dev/icons?i=python,fastapi,react,js,html,css,postgres,docker,git,linux,vscode,debian,npm,discord,linkedin,figma,github,sqlite,bash" />
 </p>
 
+#Favorite Song
+
+<div align="center">
+  <a href="https://on.soundcloud.com/md4MPjgq2UxuKCgdmo" target="_blank">
+    <img src="https://sc-badge-generator.vercel.app/api/track?url=https://on.soundcloud.com/md4MPjgq2UxuKCgdmo" alt="SoundCloud Track" width="400" />
+  </a>
+</div>
+
 # 🐍 Contribution Snake
 
 <picture>
