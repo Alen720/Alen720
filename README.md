@@ -36,3 +36,8 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alen720/Alen720/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Alen720/Alen720/output/github-contribution-grid-snake.svg">
 </picture>
+
+<div align="center">
+  <p><i>Current mood when debugging:</i></p>
+  <img src="https://github.com/user-attachments/assets/790bbc52-602e-484c-9b46-814f7331b976" width="380" alt="Mood" />
+</div>
