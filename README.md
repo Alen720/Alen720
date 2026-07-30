@@ -37,7 +37,8 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Alen720/Alen720/output/github-contribution-grid-snake.svg">
 </picture>
 
+# 🐞 Current mood when debugging:
+
 <div align="center">
-  <p><i>Current mood when debugging:</i></p>
   <img src="https://github.com/user-attachments/assets/104bd162-2621-4157-9a8b-2ef2f9e8558a" width="380" alt="Mood" />
 </div>
