@@ -24,7 +24,7 @@
       <b>🎧 SoundCloud Player</b><br>
       <sub><b>ssshhhiiittt</b> — дворы</sub><br><br>
       <code>0:42 ━━━━━🔘─────────── 2:45</code><br><br>
-      <a href="https://on.soundcloud.com/xAk5aW7t0ekD7FL3yi" target="_blank">▶ <b>Слушать трек</b></a>
+      <a href="https://on.soundcloud.com/xmQSNymWji7pxsEA1h" target="_blank">▶ <b>Слушать трек</b></a>
     </td>
   </tr>
 </table>
