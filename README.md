@@ -22,8 +22,8 @@
   <tr>
     <td align="center">
       <b>🎧 SoundCloud Player</b><br>
-      <sub><b>ssshhhiiittt</b> — дворы</sub><br><br>
-      <code>0:42 ━━━━━🔘─────────── 2:45</code><br><br>
+      <sub><b>АПФС</b> сонный паралич</sub><br><br>
+      <code>0:42 ━━━━━🔘─────────── 2:03</code><br><br>
       <a href="https://on.soundcloud.com/33VzCUdhlnUex9WP9g" target="_blank">▶ <b>Слушать трек</b></a>
     </td>
   </tr>
