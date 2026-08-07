@@ -11,8 +11,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api?username=Alen720&show_icons=true&hide_rank=true&theme=tokyonight" />
-  <img height="165" src="https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api/top-langs/?username=Alen720&layout=donut&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats-fastapi.vercel.app/api?username=Alen720&show_icons=true&hide_rank=true&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats-fastapi.vercel.app/api/top-langs/?username=Alen720&layout=donut&theme=tokyonight" />
 </p>
 
 <div align="center">
