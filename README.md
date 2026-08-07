@@ -8,6 +8,13 @@
   <img src="https://skillicons.dev/icons?i=python,fastapi,react,js,html,css,postgres,docker,git,linux,vscode,debian,npm,discord,figma,github,sqlite,bash" />
 </p>
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Alen720&show_icons=true&theme=catppuccin_mocha&hide_border=true&title_color=cba6f7&icon_color=cba6f7&text_color=cdd6f4&bg_color=1e1e2e" alt="Alen's GitHub stats" height="175" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alen720&layout=donut&theme=catppuccin_mocha&hide_border=true&title_color=cba6f7&text_color=cdd6f4&bg_color=1e1e2e" alt="Top Languages" height="175" />
+</div>
+
 <div align="center">
   <h2>🎵 Favorite Song</h2>
 
