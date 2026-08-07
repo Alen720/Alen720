@@ -11,7 +11,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Alen720&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Alen720&show_icons=true&theme=tokyonight&hide_rank=true" width="48%" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Alen720&layout=donut&theme=tokyonight" width="48%" />
 </p>
 
