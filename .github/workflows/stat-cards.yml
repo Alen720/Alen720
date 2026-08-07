@@ -1,0 +1,43 @@
+name: Generate Stat Cards
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Generate GitHub Stats Card
+        uses: anuraghazra/github-readme-stats@main
+        with:
+          action: 'stats'
+          username: 'Alen720'
+          theme: 'tokyonight'
+          show_icons: true
+          hide_rank: true
+          output_path: 'github-stats.svg'
+        env:
+          PAT_WITH_CUSTOM_ARGS: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate Top Languages Card
+        uses: anuraghazra/github-readme-stats@main
+        with:
+          action: 'top-languages'
+          username: 'Alen720'
+          theme: 'tokyonight'
+          layout: 'donut'
+          output_path: 'top-langs.svg'
+        env:
+          PAT_WITH_CUSTOM_ARGS: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add github-stats.svg top-langs.svg
+          git commit -m "Update generated stat cards" || exit 0
+          git push
