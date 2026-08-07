@@ -10,10 +10,10 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Alen720&show_icons=true&theme=tokyonight" alt="Alen's GitHub stats" height="175" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Alen720&layout=donut&theme=tokyonight" alt="Top Languages" height="175" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Alen720&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Alen720&layout=donut&theme=tokyonight" width="48%" />
+</p>
 
 <div align="center">
   <h2>🎵 Favorite Song</h2>
