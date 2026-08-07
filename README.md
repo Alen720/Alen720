@@ -11,12 +11,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Alen720&show_icons=true&hide_rank=true&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alen720&layout=donut&theme=tokyonight" />
-  </a>
+  <img src="https://raw.githubusercontent.com/Alen720/Alen720/main/github-stats.svg" height="165" />
+  <img src="https://raw.githubusercontent.com/Alen720/Alen720/main/top-langs.svg" height="165" />
 </p>
 
 <div align="center">
