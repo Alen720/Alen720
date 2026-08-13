@@ -5,7 +5,7 @@
 ## 🚀 Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,react,js,html,css,postgres,docker,git,linux,vscode,debian,npm,discord,figma,github,sqlite,bash" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,react,ts,js,html,css,postgres,docker,git,linux,vscode,debian,npm,discord,figma,github,sqlite,bash" />
 </p>
 
 ## 📊 GitHub Stats
@@ -29,9 +29,9 @@
   <tr>
     <td align="center">
       <b>🎧 SoundCloud Player</b><br>
-      <sub><b>cupsize</b> компромат</sub><br><br>
-      <code>0:42 ━━━━━🔘─────────── 2:48</code><br><br>
-      <a href="https://on.soundcloud.com/q234YQvyEyWD8pPC80" target="_blank">▶ <b>Слушать трек</b></a>
+      <sub><b>onda andar</b> FlowerTouch;)))</sub><br><br>
+      <code>0:42 ━━━━━🔘─────────── 2:31</code><br><br>
+      <a href="https://on.soundcloud.com/SKfrl4Oo6e9HmTV1uV" target="_blank">▶ <b>Слушать трек</b></a>
     </td>
   </tr>
 </table>
