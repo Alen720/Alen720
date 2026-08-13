@@ -29,7 +29,7 @@
   <tr>
     <td align="center">
       <b>🎧 SoundCloud Player</b><br>
-      <sub><b>onda andar</b> FlowerTouch;)))</sub><br><br>
+      <sub><b>onda andar</b> - FlowerTouch;)))</sub><br><br>
       <code>0:42 ━━━━━🔘─────────── 2:31</code><br><br>
       <a href="https://on.soundcloud.com/SKfrl4Oo6e9HmTV1uV" target="_blank">▶ <b>Слушать трек</b></a>
     </td>
