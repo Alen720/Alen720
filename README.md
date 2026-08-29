@@ -29,9 +29,9 @@
   <tr>
     <td align="center">
       <b>🎧 SoundCloud Player</b><br>
-      <sub><b>onda andar</b> - FlowerTouch;)))</sub><br><br>
-      <code>0:42 ━━━━━🔘─────────── 2:31</code><br><br>
-      <a href="https://on.soundcloud.com/SKfrl4Oo6e9HmTV1uV" target="_blank">▶ <b>Слушать трек</b></a>
+      <sub><b>DJ ZUP RAlii</b> - револьвер</sub><br><br>
+      <code>0:42 ━━━━━🔘─────────── 1:12</code><br><br>
+      <a href="https://on.soundcloud.com/gVRRi3RTC1NQvS1M5l" target="_blank">▶ <b>Слушать трек</b></a>
     </td>
   </tr>
 </table>
