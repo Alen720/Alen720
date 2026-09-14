@@ -29,9 +29,9 @@
   <tr>
     <td align="center">
       <b>🎧 SoundCloud Player</b><br>
-      <sub><b>DJ ZUP RAlii</b> - револьвер</sub><br><br>
-      <code>0:42 ━━━━━🔘─────────── 1:12</code><br><br>
-      <a href="https://on.soundcloud.com/gVRRi3RTC1NQvS1M5l" target="_blank">▶ <b>Слушать трек</b></a>
+      <sub><b>812 FORTUNA</b> - Close To Her (slowed)</sub><br><br>
+      <code>0:42 ━━━━━🔘─────────── 1:20</code><br><br>
+      <a href="https://on.soundcloud.com/siIYvqmDrr5tRk4DNx" target="_blank">▶ <b>Слушать трек</b></a>
     </td>
   </tr>
 </table>
